@@ -110,24 +110,18 @@ The project includes:
 - Capability Maturity Model (CMM)
 
 ---
-
 ## My Contribution
-
-My contribution focused on establishing the foundation of the cybersecurity program by designing its governance structure and developing the organization's security policies.
-
-Responsibilities included:
-
-- Developing the project introduction and defining the operational context of the Saudi Investment Bank (SIB).
-- Designing the Cybersecurity Program structure.
-- Developing the following organizational security policies:
+As part of this project, I contributed to the development of the foundational components of the cybersecurity program for the Saudi Investment Bank (SIB), covering the initial analysis, asset identification, and security policy development.
+My responsibilities included:
+- Developing the project introduction by providing an overview of the Saudi Investment Bank (SIB), its operational environment, business services, the importance of cybersecurity, and the key operational challenges facing the organization.
+- Identifying and classifying the bank's critical information assets based on Confidentiality, Integrity, and Availability (CIA) requirements to support effective risk management and asset protection.
+- Designing and documenting the organization's core cybersecurity policies, including:
   - Data Classification & Handling Policy
   - Access Control Policy
   - Patch & Vulnerability Management Policy
   - Incident Response Policy (IRP)
   - Business Continuity & Disaster Recovery Policy (BC/DR)
-
-These components established the governance and policy framework that supports the overall cybersecurity strategy presented throughout the project.
-
+These contributions established the foundation of the cybersecurity program by defining the organization's operational context, identifying its critical assets, and developing the governance and security policies that support the overall cybersecurity strategy.
 ---
 
 ## Learning Outcomes
