@@ -1,6 +1,5 @@
 # Enterprise Cybersecurity Program for Saudi Investment Bank (SIB)
 
-> Academic Team Project | Cybersecurity Operations
 
 A comprehensive cybersecurity program designed for the Saudi Investment Bank (SIB) to enhance security governance, protect critical assets, and ensure compliance with industry standards and Saudi regulations.
 
